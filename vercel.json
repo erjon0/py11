@@ -1,0 +1,8 @@
+{
+  "experimentalServices": {
+    "streamlit": {
+      "entrypoint": "streamlit/main.py",
+      "routePrefix": "/"
+    }
+  }
+}

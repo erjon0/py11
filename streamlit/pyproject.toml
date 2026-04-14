@@ -1,0 +1,10 @@
+[project]
+name = "pytech-hub"
+version = "0.1.0"
+description = "PyTech Hub - Python Tech Website"
+requires-python = ">=3.11"
+dependencies = [
+    "streamlit>=1.40.0",
+    "pandas>=2.2.0",
+    "plotly>=5.18.0",
+]
